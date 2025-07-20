@@ -74,3 +74,13 @@
 
     Ожидаемый результат:
     ...
+
+9. American options, upper bounds
+    Статьи: 
+    * [Robust Regression MC](https://kups.ub.uni-koeln.de/4442/1/Diss_Jonen.pdf)
+
+10. Прайсинг американского опциона через уравнение на границу экспирации.
+    Статьи:
+    * [Early exercise premium representation](https://engineering.nyu.edu/sites/default/files/2019-03/alternative-characterizations-of-american-put-options.pdf)
+    * [Volterra equation for expiration boundary](https://arxiv.org/pdf/2502.00740)
+    * Добавить
