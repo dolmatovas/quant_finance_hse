@@ -83,4 +83,5 @@
     Статьи:
     * [Early exercise premium representation](https://engineering.nyu.edu/sites/default/files/2019-03/alternative-characterizations-of-american-put-options.pdf)
     * [Volterra equation for expiration boundary](https://arxiv.org/pdf/2502.00740)
-    * Добавить
+    * https://hpcquantlib.wordpress.com/2022/10/09/high-performance-american-option-pricing/
+    * https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2547027
