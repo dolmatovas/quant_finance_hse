@@ -85,3 +85,14 @@
     * [Volterra equation for expiration boundary](https://arxiv.org/pdf/2502.00740)
     * https://hpcquantlib.wordpress.com/2022/10/09/high-performance-american-option-pricing/
     * https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2547027
+
+11. Параметрические модели локальной волатильности, модель смеси логнормальных распределенией 
+    Статьи:
+    * [Brigo,Mercurio; Lognormal-mixture dynamics and calibration to market volatility smiles](https://www.ma.imperial.ac.uk/~dbrigo/lognsmile.pdf)
+    * [Wikipedia](https://en.wikipedia.org/wiki/Local_volatility#The_lognormal_mixture_dynamics_model)
+    * [Piterbarg](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=393060)
+
+    Ожидаемый результат:
+    * Реализация модели локальной волатильности на основе смеси логнормальных и сдвинутых логнормальных распределений
+    * Калибровка на рыночную поверхность волатильности
+    * Сравнение с формулой Дюпира на ванильных и экзотических опционах
